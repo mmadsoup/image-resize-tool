@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "image-resize-tool/1.0.0": {
+        "runtime": {
+          "image-resize-tool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "image-resize-tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
